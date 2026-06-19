@@ -11,11 +11,12 @@ I build lightweight, practical tools for data analysis, API testing, and web aut
 | [pydata-toolkit](https://github.com/xzxytech/pydata-toolkit) | Data cleaning, analysis, visualization & reporting | ⭐ |
 | [api-toolkit](https://github.com/xzxytech/api-toolkit) | REST API testing, monitoring & load testing | ⭐ |
 | [web-scraper-toolkit](https://github.com/xzxytech/web-scraper-toolkit) | Web scraping & data extraction with CSS selectors | ⭐ |
+| [excel-templates](https://github.com/xzxytech/excel-templates) | Premium Excel templates for finance & productivity | ⭐ |
 
 ## 🎁 Free Resources
 
-- [Budget Tracker Template](https://gist.github.com/xzxytech/b8795e86674734b484f81e536be32c0a) — Free Excel template
-- [12 Premium Excel Templates](https://ko-fi.com/xzxytech) — Financial Dashboard, Sales Report, Invoice Generator & more
+- [Budget Tracker Template](https://github.com/xzxytech/excel-templates/releases/download/v1.0.0/02_Budget_Tracker.xlsx) — Free Excel template
+- [All 12 Premium Templates](https://github.com/xzxytech/excel-templates/releases/tag/v1.0.0) — Financial Dashboard, Sales Report, Invoice Generator & more
 
 ## 💻 Tech Stack
 
